@@ -6,9 +6,9 @@ export default function Page() {
       <h1 className="mb-8 text-8xl font-bold tracking-tighter">
         Cassetter
       </h1>
-      <p className="mb-4"text-4xl >
+      <h2 className="mb-4" text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
-      </p>
+      </h2>
       <div className="my-8">
       </div>
     </section>
