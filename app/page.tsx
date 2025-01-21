@@ -7,7 +7,7 @@ export default function Page() {
         Cassetter
       </h1>
       <p className="mb-4"text-4xl >
-        Bespoke Video Game Production Consultancy
+        Bespoke Video Game Production
       </p>
       <div className="my-8">
       </div>
