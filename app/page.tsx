@@ -6,7 +6,8 @@ export default function Page() {
       <h1 className="mb-8 text-8xl font-bold tracking-tighter">
         Cassetter
       </h1>
-      <p className="mb-4">
+      <p className="mb-4"text-4xl >
+        Bespoke Video Game Production Consultancy
       </p>
       <div className="my-8">
       </div>
