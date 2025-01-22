@@ -9,9 +9,9 @@ export default function Page() {
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
       </h2>
-          <p className="prose">Cassetter is me, <a href="https://www.linkedin.com/in/dancroucher/">Dan Croucher</a>.</p>
+          <p className="prose">Cassetter is me, <a href="https://www.linkedin.com/in/dancroucher/">Dan Croucher</a>.\\</p>
           <p className="prose"> </p>
-          <p className="prose">I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience.</p>
+          <p className="prose">I'm a creative and versatile video game producer and studio leader\with 20+ years of hands-on game industry experience.</p>
           <p className="prose"> </p>
           <p className="prose">
           I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget, and I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
