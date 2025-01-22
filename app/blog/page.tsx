@@ -18,6 +18,9 @@ export default function Page() {
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
       </h2>
+      <h3 className="mb-4 text-4xl font-bold tracking-tighter">
+        Services     
+      </h3>
           <p className="prose">&nbsp;</p>
           <p className="prose">
             <ul>
