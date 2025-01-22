@@ -15,17 +15,20 @@ export default function Page() {
           <p className="prose">I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience.</p>
           <p className="prose">&nbsp;</p>
           <p className="prose">
-          Making games is hard, and a producer is critical for successful development. You may only need someone in your team for a limited time. Or some experienced eyes on the important numbers and dates at the end of your pitch.
+          Making games is hard, and a producer is critical for successful development. 
           </p>
           <p className="prose">&nbsp;</p>
           <p className="prose">
-          The right person in production can get things done. Help fix an unhappy team, a blown budget or dates you can't hit. 
+          You may only want someone in your team for a limited time. Or just some experienced eyes on the important numbers and dates at the end of your pitch.
           </p>
           <p className="prose">&nbsp;</p>
           <p className="prose">
-          I can help in these situations, and many more, such as:
+          The right person in production can get things done - fix an unhappy team, a blown budget or dates you can't hit. 
           </p>
           <p className="prose">&nbsp;</p>
+          <p className="prose">
+          I can help in these situations, and many more:
+          </p>
           <p className="prose">
             <ul>
               <li>Coffee</li>
