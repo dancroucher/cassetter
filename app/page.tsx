@@ -18,7 +18,7 @@ export default function Page() {
           I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality - both at a game development and studio management level.
           <br>
           I can help you with a range of Production work in video game development, just get in touch below for a chat.
-          </br>
+          <br>
           <ul style="list-style-type: '◾ ';" >
             <li>Coffee</li>
             <li>Tea</li>
