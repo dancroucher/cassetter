@@ -9,17 +9,23 @@ export default function Page() {
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
       </h2>
+          <p className="prose">&nbsp;</p>
           <p className="prose">Cassetter is me, <a href="https://www.linkedin.com/in/dancroucher/">Dan Croucher</a>.</p>
           <p className="prose">&nbsp;</p>
-          <p className="prose">I'm a creative and versatile video game producer and studio leaderwith 20+ years of hands-on game industry experience.</p>
+          <p className="prose">I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience.</p>
           <p className="prose">&nbsp;</p>
           <p className="prose">
-          I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget, and I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
-          Making games is hard, and a producer is critical for successful development. You may only need someone in your team for a limited time. Or some experienced eyes on the important numbers and dates at the end of your pitch. A specialist can assist in fixing an unhappy team, a blown budget or dates you can't hit. 
+          Making games is hard, and a producer is critical for successful development. You may only need someone in your team for a limited time. Or some experienced eyes on the important numbers and dates at the end of your pitch.
           </p>
+          <p className="prose">&nbsp;</p>
           <p className="prose">
-          I can help in all of these situations, and many more. Just get in touch below for a chat.
+          The right person in production can get things done. Help fix an unhappy team, a blown budget or dates you can't hit. 
           </p>
+          <p className="prose">&nbsp;</p>
+          <p className="prose">
+          I can help in these situations, and many more, such as:
+          </p>
+          <p className="prose">&nbsp;</p>
           <p className="prose">
             <ul>
               <li>Coffee</li>
