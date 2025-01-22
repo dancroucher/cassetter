@@ -29,7 +29,7 @@ export default function Page() {
           <p className="prose">&nbsp;</p>
           <p className="prose">
           I can help in these situations, and <a href="/services.tsx">many more</a>.
-          <a href="/services">About</a>
+          <a href="/blog">About</a>
           </p>
     </section>
   )
