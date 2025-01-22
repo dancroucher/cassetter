@@ -13,7 +13,7 @@ export default function Page() {
     // </section>
     <section>
       <h1 className="mb-8 text-8xl font-bold tracking-tighter">
-        Cassetter
+      <a href="/">Cassetter</a>
       </h1>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
