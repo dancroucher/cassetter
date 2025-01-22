@@ -1,4 +1,4 @@
-import { getBlogPosts } from 'app/blog/utils'
+import { getBlogPosts } from 'app/services/utils'
 
 export const baseUrl = 'https://cassetter.vercel.app'
 
