@@ -9,7 +9,6 @@ export default function Page() {
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
       </h2>
-        <article class="prose">
           <p className="prose">
             "Cassetter is me, <a href="https://www.linkedin.com/in/dancroucher/">Dan Croucher</a>.
             I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience.
@@ -22,7 +21,6 @@ export default function Page() {
             <li>Tea</li>
             <li>Milk</li>
           </ul>
-        </article>
     </section>
   )
 }
