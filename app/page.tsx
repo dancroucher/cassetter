@@ -9,7 +9,6 @@ export default function Page() {
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
       </h2>
-      <div className="my-8">
         <article class="prose">
         <p>
           Cassetter is me, <a href="https://www.linkedin.com/in/dancroucher/">Dan Croucher</a>
@@ -31,7 +30,6 @@ export default function Page() {
           </ul>
         </p>
         </article>
-      </div>
     </section>
   )
 }
