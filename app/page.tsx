@@ -5,7 +5,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-8xl font-bold tracking-tighter">
-        Cassetter
+        <a href="/">Cassetter</a>
       </h1>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
@@ -28,8 +28,7 @@ export default function Page() {
           </p>
           <p className="prose">&nbsp;</p>
           <p className="prose">
-          I can help in these situations, and <a href="/services.tsx">many more</a>.
-          <a href="/blog">About</a>
+          I can help in these situations, and <a href="/blog">many more</a>.
           </p>
     </section>
   )
