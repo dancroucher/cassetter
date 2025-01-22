@@ -19,7 +19,7 @@ export default function Page() {
           <br>
           I can help you with a range of Production work in video game development, just get in touch below for a chat.
           <br>
-          <ul style="list-style-type: '◾ ';" >
+          <ul>
             <li>Coffee</li>
             <li>Tea</li>
             <li>Milk</li>
