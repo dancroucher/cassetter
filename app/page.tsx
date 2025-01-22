@@ -10,6 +10,7 @@ export default function Page() {
         Bespoke Video Game Production
       </h2>
       <div className="my-8">
+        <article class="prose">
         <p>
           Cassetter is me, <a href="https://www.linkedin.com/in/dancroucher/">Dan Croucher</a>
         </p>
@@ -29,6 +30,7 @@ export default function Page() {
             <li>Milk</li>
           </ul>
         </p>
+        </article>
       </div>
     </section>
   )
