@@ -11,8 +11,8 @@ export default function Page() {
       </h2>
       <div className="my-8">
         <p>
-        Cassetter is me, <a href="https://www.linkedin.com/in/dancroucher/">Dan Croucher</a> 
-          I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience.
+        Cassetter is me, <a href="https://www.linkedin.com/in/dancroucher/">Dan Croucher</a> +"<br>"+
+          I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience./n
           I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget.
           I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
           Making games is hard, and a producer is critical for successful development.
