@@ -10,6 +10,13 @@ export default function Page() {
         Bespoke Video Game Production
       </h2>
       <div className="my-8">
+        <p>
+          <ul>
+            <li>Coffee</li>
+            <li>Tea</li>
+            <li>Milk</li>
+          </ul>
+        </p>
       </div>
     </section>
   )
