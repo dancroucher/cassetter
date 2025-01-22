@@ -1,6 +1,5 @@
 import { BlogPosts } from 'app/components/posts'
 import { Navbar } from './components/nav'
-import Link from 'next/link'
 
 export default function Page() {
   return (
@@ -30,7 +29,7 @@ export default function Page() {
           <p className="prose">&nbsp;</p>
           <p className="prose">
           I can help in these situations, and <a href="/services.tsx">many more</a>.
-          <Link to="/blog">About</Link>
+          <a href="/blog">About</a>
           </p>
     </section>
   )
