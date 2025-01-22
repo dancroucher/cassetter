@@ -19,11 +19,11 @@ export default function Page() {
           </p>
           <p className="prose">&nbsp;</p>
           <p className="prose">
-          You may only want someone in your team for a limited time. Or just some experienced eyes on the important numbers and dates at the end of your pitch.
+          You may only want someone in your team for a limited time. Or just some experienced eyes on the important numbers and dates at the end of your pitch. Or maybe you're from outside of games and don't know where to start.
           </p>
           <p className="prose">&nbsp;</p>
           <p className="prose">
-          The right person in production can get things done - fix an unhappy team, a blown budget or dates you can't hit. 
+          The right person in production can get things done. Fix an unhappy team or build one. Rescue a blown budget or write one from scratch. Make development easier, faster and happier. 
           </p>
           <p className="prose">&nbsp;</p>
           <p className="prose">
