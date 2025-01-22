@@ -10,6 +10,25 @@ export default function Page() {
         Bespoke Video Game Production
       </h2>
           <p className="prose">&nbsp;</p>
+          <p className="prose">Cassetter is me, <a href="https://www.linkedin.com/in/dancroucher/">Dan Croucher</a>.</p>
+          <p className="prose">&nbsp;</p>
+          <p className="prose">I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience.</p>
+          <p className="prose">&nbsp;</p>
+          <p className="prose">
+          Making games is hard, and a producer is critical for successful development. 
+          </p>
+          <p className="prose">&nbsp;</p>
+          <p className="prose">
+          You may only want someone in your team for a limited time. Or just some experienced eyes on the important numbers and dates at the end of your pitch. Or maybe you're from outside of games and don't know where to start.
+          </p>
+          <p className="prose">&nbsp;</p>
+          <p className="prose">
+          The right person in production can get things done. Fix an unhappy team or build one. Rescue a blown budget or write one from scratch. Make development easier, faster and happier. 
+          </p>
+          <p className="prose">&nbsp;</p>
+          <p className="prose">
+          I can help in these situations, and many more:
+          </p>
           <p className="prose">
             <ul>
               <li>Experience-driven advice and practical assistance on all aspects of game development.</li>
