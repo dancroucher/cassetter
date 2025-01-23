@@ -4,6 +4,15 @@ import { Navbar } from './components/nav'
 export default function Page() {
   return (
     <section>
+         
+      <div>
+      <Image
+        src="/components/images/art.jpg"
+        width={500}
+        height={500}
+        alt="Picture of the author"
+      />
+    </div>
       <h1 className="mb-8 text-8xl font-bold tracking-tighter">
         <a href="/">Cassetter</a>
       </h1>
