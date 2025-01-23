@@ -1,9 +1,10 @@
 import { BlogPosts } from 'app/components/posts'
 import { Navbar } from './components/nav'
 
-const imageUrl = "./components/images/art.jpg";
+import imageUrl from "./components/images/art.jpg";
+
 const imageElement = document.createElement("img");
-imageElement.src = imageUrl;
+// imageElement.src = imageUrl;
 
 document.body.appendChild(imageElement);
   
