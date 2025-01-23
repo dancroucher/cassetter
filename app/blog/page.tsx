@@ -1,4 +1,5 @@
 import { BlogPosts } from 'app/components/posts'
+import { Analytics } from "@vercel/analytics/react"
 
 export const metadata = {
   title: 'Blog',
