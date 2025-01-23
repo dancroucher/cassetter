@@ -1,6 +1,5 @@
 // import { BlogPosts } from 'app/components/posts'
 
-
 // export const metadata = {
 //   title: 'Blog',
 //   description: 'Read my blog.',
@@ -22,6 +21,7 @@ export default function Page() {
       <h3 className="mb-4 text-2xl font-bold tracking-tighter">
         Services     
       </h3>
+          <p className="prose">&nbsp;</p>
           <p className="prose">
             <ul>
               <li>Experience-driven advice and practical assistance on all aspects of game development.</li>
