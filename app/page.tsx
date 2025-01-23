@@ -8,7 +8,7 @@ export default function Page() {
          
       <div>
       <Image
-        src="/components/images/art.jpg"
+        src="app/components/images/art.jpg"
         width={500}
         height={500}
         alt="Picture of the author"
