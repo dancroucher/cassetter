@@ -1,5 +1,6 @@
 import { BlogPosts } from 'app/components/posts'
 import { Navbar } from './components/nav'
+import Image from 'next/image'
 
 export default function Page() {
   return (
