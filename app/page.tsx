@@ -1,32 +1,16 @@
 import { BlogPosts } from 'app/components/posts'
 import { Navbar } from './components/nav'
 
-function show_image(src, width, height,alt) {
-  // Create a new image element
-  let img = document.createElement("img");
+const imageUrl = "./components/images/art.png";
+const imageElement = document.createElement("img");
+imageElement.src = imageUrl;
 
-  // Set the source, width, 
-  // height, and alt attributes
-  img.src = src;
-  img.width = width;
-  img.height = height;
-  img.alt = alt;
-
-  // Append the image element
-  // to the body of the document
-  document.body.appendChild(img);
-}
-
-// Example usage:
-show_image(
-"https://media.geeksforgeeks.org/wp-content/uploads/20231228172727/gfg-image.jpg",
-  300, 200,"gfg logo");
+document.body.appendChild(imageElement);
   
 export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-8xl font-bold tracking-tighter">
-      <img src="art.png" alt="">
       <a href="/">Cassetter</a>
       </h1>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
