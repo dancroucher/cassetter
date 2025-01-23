@@ -1,5 +1,5 @@
 // import { BlogPosts } from 'app/components/posts'
-import Image from 'next/image'
+
 
 // export const metadata = {
 //   title: 'Blog',
