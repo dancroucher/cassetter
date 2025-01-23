@@ -5,7 +5,8 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-8xl font-bold tracking-tighter">
-        <a href="/">Cassetter</a>
+      <img src="art.png" alt="">
+      <a href="/">Cassetter</a>
       </h1>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
