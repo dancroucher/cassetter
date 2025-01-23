@@ -1,7 +1,7 @@
 import { BlogPosts } from 'app/components/posts'
 import { Navbar } from './components/nav'
 
-import imageUrl from "app/components/images/art.png";
+import imageUrl from "./components/images/art.jpg";
 
 const imageElement = document.createElement("img");
 imageElement.src = imageUrl;
