@@ -1,6 +1,7 @@
 import { BlogPosts } from 'app/components/posts'
 import { Navbar } from './components/nav'
 import Image from 'next/image'
+import headerPic from './components/images/art.jpg'
 
 export default function Page() {
   return (
@@ -8,7 +9,7 @@ export default function Page() {
          
       <div>
       <Image
-        src="app/components/images/art.jpg"
+        src={headerPic}
         width={500}
         height={500}
         alt="Picture of the author"
