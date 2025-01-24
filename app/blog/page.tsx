@@ -4,6 +4,9 @@
 //   title: 'Blog',
 //   description: 'Read my blog.',
 // }
+import Image from 'next/image'
+import logoPic from './components/images/logo.png'
+
 
 export default function Page() {
   return (
