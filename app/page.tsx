@@ -9,15 +9,16 @@ export default function Page() {
     <section>
          
       <div>
-      <Image
-        src={headerPic}
-        width={500}
-        height={500}
-        alt="Picture of the author"
-      />
+
     </div>
       <h1 className="mb-8 text-8xl font-bold tracking-tighter">
-        <a href="/">Cassetter</a>
+      <Image
+        src={logoPic}
+        width={200}
+        height={200}
+        alt=""
+      />
+      <a href="/">Cassetter</a>
       </h1>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
