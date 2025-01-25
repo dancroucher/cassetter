@@ -14,8 +14,8 @@ export default function Page() {
       <h1 className="mb-8 text-8xl font-bold tracking-tighter">
       <Image
         src={logoPic}
-        width={100}
-        height={100}
+        width={300}
+        height={300}
         alt=""
       />
       <a href="/">Cassetter</a>
@@ -42,13 +42,7 @@ export default function Page() {
           <p className="prose">&nbsp;</p>
           <p className="prose">
           I can help in these situations, and <a href="/blog">many more</a>.
-          </p>
-          <Image
-        src={headerPic}
-        width={800}
-        height={200}
-        alt=""
-      />
+          </p>ß
     </section>
   )
 }
