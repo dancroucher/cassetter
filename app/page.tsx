@@ -1,8 +1,7 @@
 import { BlogPosts } from 'app/components/posts'
 import { Navbar } from './components/nav'
 import Image from 'next/image'
-import headerPic from './components/images/header.png'
-import logoPic from './components/images/logo.png'
+import logoPic from 'app/components/images/logo.png'
 
 export default function Page() {
   return (
