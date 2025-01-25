@@ -15,12 +15,23 @@ export default function Page() {
     //   <BlogPosts />
     // </section>
     <section>
-      <h1 className="mb-8 text-8xl font-bold tracking-tighter">
-      <a href="/">Cassetter</a>
-      </h1>
-      <h2 className="mb-4 text-4xl font-bold tracking-tighter">
-        Bespoke Video Game Production
-      </h2>
+              
+              <div>
+
+</div>
+  <div className="flex items-center mb-8">
+    <Image
+      src={logoPic}
+      width={100}
+      height={100}
+      alt="Logo"
+      className="mr-4"
+    />
+    <h1 className="text-8xl font-bold tracking-tighter">Cassetter</h1>
+  </div>
+  <h2 className="mb-4 text-4xl font-bold tracking-tighter">
+    Bespoke Video Game Production
+  </h2>
       <h3 className="mb-4 text-2xl font-bold tracking-tighter">
         Services     
       </h3>
