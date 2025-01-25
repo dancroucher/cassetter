@@ -5,7 +5,7 @@
 //   description: 'Read my blog.',
 // }
 import Image from 'next/image'
-import logoPic from './components/images/logo.png'
+import logoPic from 'app/components/images/logo.png'
 
 
 export default function Page() {
