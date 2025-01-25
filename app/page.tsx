@@ -11,15 +11,16 @@ export default function Page() {
       <div>
 
     </div>
-      <h1 className="mb-8 text-8xl font-bold tracking-tighter">
-      <Image
-        src={logoPic}
-        width={200}
-        height={200}
-        alt=""
-      />
-      <a href="/">Cassetter</a>
-      </h1>
+      <div className="flex items-center mb-8">
+        <Image
+          src={logoPic}
+          width={100}
+          height={100}
+          alt="Logo"
+          className="mr-4"
+        />
+        <h1 className="text-8xl">Cassetter</h1>
+      </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
       </h2>
