@@ -18,7 +18,7 @@ export default function Page() {
           alt="Logo"
           className="mr-4"
         />
-        <h1 className="text-8xl font-bold tracking-tighter">Cassetter</h1>
+        <h1 className="text-8xl font-bold tracking-tighter"><a href="app">Cassetter</a></h1>
       </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
