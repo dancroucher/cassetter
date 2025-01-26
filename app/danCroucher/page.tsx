@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import logoPic from 'app/components/images/logo.png'
-
+import danCroucherPic from 'app/components/images/logo.png'
 
 export default function DanCroucher() {
   return (
@@ -16,14 +16,19 @@ export default function DanCroucher() {
         <h1 className="text-8xl font-bold tracking-tighter"><a href="./">Cassetter</a></h1>
         </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">Dan Croucher</h2>
-      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Development Director and Producer</h3>
-      <h4 className="mb-4 text-xl tracking-tight">Production</h4>
-      
+      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Dev Director, Exec Producer, Producer</h3>      
       <p className="prose mb-4">
-      I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
+        I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
+        <Image
+            src={danCroucherPic}
+            width={100}
+            height={100}
+            alt="Logo"
+            className="float-right mr-4"
+          />
       </p>
       <p className="prose mb-4">
-      I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality - both at a game development and studio management level.
+        I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality - both at a game development and studio management level.
       </p>
 
       <h3 className="mb-4 text-2xl font-bold tracking-tighter">Things I can do</h3>
