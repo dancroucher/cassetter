@@ -48,12 +48,10 @@ export default function DanCroucher() {
           <li>Supporting multi-platform releases across PC, console, and mobile.</li>
         </ul>
       </p>
-
       <footer className="mt-8">
-        <h4 className="text-lg font-semibold">Connect with me:</h4>
+        <h4 className="text-lg font-semibold">Connect</h4>
         <ul className="flex space-x-4">
-          <li><a href="https://twitter.com/yourprofile" className="text-blue-500 hover:underline">Twitter</a></li>
-          <li><a href="https://linkedin.com/in/yourprofile" className="text-blue-500 hover:underline">LinkedIn</a></li>
+          <li><a href="https://linkedin.com/in/dancroucher" className="text-blue-500 hover:underline">LinkedIn</a></li>
         </ul>
       </footer>
     </section>
