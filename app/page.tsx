@@ -26,8 +26,6 @@ export default function Page() {
           <p className="prose">&nbsp;</p>
           <p className="prose">Cassetter is me, <a href="/danCroucher">Dan Croucher</a>.</p>
           <p className="prose">&nbsp;</p>
-          <p className="prose">I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience.</p>
-          <p className="prose">&nbsp;</p>
           <p className="prose">
           Making games is hard, and a producer is critical for successful development. 
           </p>

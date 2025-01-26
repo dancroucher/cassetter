@@ -16,14 +16,17 @@ export default function DanCroucher() {
         <h1 className="text-8xl font-bold tracking-tighter">Cassetter</h1>
       </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">Dan Croucher</h2>
-      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Game Developer</h3>
-      <h4 className="mb-4 text-xl font-medium tracking-tight">Discipline: Video Game Production</h4>
+      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Development Director and Producer</h3>
+      <h4 className="mb-4 text-xl tracking-tight">Production</h4>
       
       <p className="prose mb-4">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
+      </p>
+      <p className="prose mb-4">
+      I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality - both at a game development and studio management level.
       </p>
 
-      <h3 className="mb-4 text-2xl font-bold tracking-tighter">Services</h3>
+      <h3 className="mb-4 text-2xl font-bold tracking-tighter">Things I can do</h3>
       <p className="prose">
         <ul>
           <li>Experience-driven advice and practical assistance on all aspects of game development.</li>
