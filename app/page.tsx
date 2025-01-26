@@ -18,7 +18,7 @@ export default function Page() {
           alt="Logo"
           className="mr-4"
         />
-        <h1 className="text-8xl font-bold tracking-tighter"><a href="app">Cassetter</a></h1>
+        <h1 className="text-8xl font-bold tracking-tighter"><a href="./">Cassetter</a></h1>
       </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
@@ -39,7 +39,7 @@ export default function Page() {
           </p>
           <p className="prose">&nbsp;</p>
           <p className="prose">
-          I can help in these situations, and <a href="/blog">many more</a>.
+          I can help! You can get in touch below.
           </p>
     </section>
   )

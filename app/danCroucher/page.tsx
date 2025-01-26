@@ -13,8 +13,8 @@ export default function DanCroucher() {
           alt="Logo"
           className="mr-4"
         />
-        <h1 className="text-8xl font-bold tracking-tighter">Cassetter</h1>
-      </div>
+        <h1 className="text-8xl font-bold tracking-tighter"><a href="./">Cassetter</a></h1>
+        </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">Dan Croucher</h2>
       <h3 className="mb-2 text-2xl font-semibold tracking-tight">Development Director and Producer</h3>
       <h4 className="mb-4 text-xl tracking-tight">Production</h4>
