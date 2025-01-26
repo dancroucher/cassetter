@@ -49,12 +49,12 @@ html {
 
 .prose a {
   @apply underline transition-all decoration-neutral-400 dark:decoration-neutral-600 underline-offset-2 decoration-[0.1em];
-  transition: background-color 0.3s ease;
+  transition: background-color 0.75s ease;
 }
 
 .prose a:hover {
   background-color: orange;
-  color: white;
+  color: black;
 }
 
 .prose .anchor:after {
