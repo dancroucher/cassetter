@@ -24,7 +24,7 @@ export default function Page() {
         Bespoke Video Game Production
       </h2>
           <p className="prose">&nbsp;</p>
-          <p className="prose">Cassetter is me, <a href="https://www.linkedin.com/in/dancroucher/">Dan Croucher</a>.</p>
+          <p className="prose">Cassetter is me, <a href="/danCroucher">Dan Croucher</a>.</p>
           <p className="prose">&nbsp;</p>
           <p className="prose">I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience.</p>
           <p className="prose">&nbsp;</p>
