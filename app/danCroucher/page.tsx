@@ -29,10 +29,11 @@ export default function DanCroucher() {
             className="ml-4"
           />
       </p>
-      <br /><br />
+
       <p className="prose">
       I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality - both at a game development and studio management level.
       </p>
+      <br /><br />
       <h3 className="mb-4 text-2xl font-bold tracking-tighter">Things I can do</h3>
       <p className="prose">
         <ul>
