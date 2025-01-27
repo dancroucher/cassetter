@@ -23,8 +23,8 @@ export default function DanCroucher() {
         </span>
         <Image
             src={danCroucherPic}
-            width={180}
-            height={240}
+            width={90}
+            height={120}
             alt=""
             className="ml-4"
           />
