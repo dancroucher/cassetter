@@ -23,7 +23,7 @@ export default function DanCroucher() {
             width={90}
             height={120}
             alt=""
-            className="ml-4"
+            className="ml-4 mr-4"
           />
           <span>
           I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
