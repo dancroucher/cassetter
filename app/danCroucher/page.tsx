@@ -20,13 +20,14 @@ export default function DanCroucher() {
       <p className="prose mb-4 flex items-center">
         <span>
           I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
+          <br /><br />
           I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality - both at a game development and studio management level.
         </span>
         <Image
             src={danCroucherPic}
-            width={160}
-            height={180}
-            alt="Logo"
+            width={180}
+            height={240}
+            alt=""
             className="ml-4"
           />
       </p>
