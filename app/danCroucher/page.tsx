@@ -6,14 +6,14 @@ export default function DanCroucher() {
   return (
     <section className="container mx-auto max-w-7xl px-4">
       <div className="mb-8">
-        <Image
+      <a href="./"><Image
           src={logoPic}
           width={128}
           height={128}
           alt="Logo"
           className="mr-4"
-        />
-        <h1 className="text-8xl font-bold tracking-tighter"><a href="./">Cassetter</a></h1>
+        /></a>
+        <h1 className="text-8xl font-bold tracking-tighter">Cassetter</h1>
         </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">Dan Croucher</h2>
       <h3 className="mb-2 text-2xl font-semibold tracking-tight">Dev Director, Exec Producer, Producer</h3>      

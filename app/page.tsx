@@ -6,20 +6,17 @@ import logoPic from './components/images/logo.png'
 export default function Page() {
   return (
     <section>
-         
-      <div>
-
-    </div>
-      <div className="mb-8">
-        <Image
+    
+    <div className="mb-8">
+      <a href="./"><Image
           src={logoPic}
           width={128}
           height={128}
           alt="Logo"
           className="mr-4"
-        />
-        <h1 className="text-8xl font-bold tracking-tighter"><a href="./">Cassetter</a></h1>
-      </div>
+        /></a>
+        <h1 className="text-8xl font-bold tracking-tighter">Cassetter</h1>
+        </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
         Bespoke Video Game Production
       </h2>
