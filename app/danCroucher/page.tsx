@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import logoPic from 'app/components/images/logo.png'
-import danCroucherPic from 'app/components/images/logo.png'
+import danCroucherPic from 'app/components/images/headshot.png'
 
 export default function DanCroucher() {
   return (
