@@ -4,7 +4,7 @@ import danCroucherPic from 'app/components/images/headshot_t.png'
 
 export default function DanCroucher() {
   return (
-    <section>
+    <section className="container mx-auto max-w-7xl px-4">
       <div className="mb-8">
         <Image
           src={logoPic}
@@ -24,11 +24,10 @@ export default function DanCroucher() {
         </span>
         <Image
             src={danCroucherPic}
-            width={200}
-            height={300}
+            width={160}
+            height={180}
             alt="Logo"
-            className="ml-4 p-4"
-            
+            className="ml-4"
           />
       </p>
 
