@@ -10,11 +10,11 @@ export default function Page() {
       <div>
 
     </div>
-      <div className="flex items-center mb-8">
+      <div className="mb-8">
         <Image
           src={logoPic}
-          width={100}
-          height={100}
+          width={256}
+          height={256}
           alt="Logo"
           className="mr-4"
         />

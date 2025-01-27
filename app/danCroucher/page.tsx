@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import logoPic from 'app/components/images/logo.png'
-import danCroucherPic from 'app/components/images/headshot.png'
+import danCroucherPic from 'app/components/images/headshot_t.png'
 
 export default function DanCroucher() {
   return (
@@ -25,7 +25,7 @@ export default function DanCroucher() {
         <Image
             src={danCroucherPic}
             width={100}
-            height={100}
+            height={200}
             alt="Logo"
             className="ml-4"
           />
