@@ -15,7 +15,7 @@ export default function DanCroucher() {
         /></a>
         <h1 className="text-8xl font-bold tracking-tighter">Cassetter</h1>
       </div>
-      <div className="prose mb-4 flex items-center">
+      <div className="flex items-center">
         <Image
               src={danCroucherPic}
               width={180}
@@ -31,7 +31,7 @@ export default function DanCroucher() {
           <br /><br />
           I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality - both at a game development and studio management level.
         </span>
-
+        <br /><br />
       <h3 className="mb-4 text-2xl font-bold tracking-tighter">Things I can do</h3>
       <p className="prose">
         <ul>
