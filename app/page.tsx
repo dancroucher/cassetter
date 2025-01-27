@@ -13,8 +13,8 @@ export default function Page() {
       <div className="mb-8">
         <Image
           src={logoPic}
-          width={256}
-          height={256}
+          width={128}
+          height={128}
           alt="Logo"
           className="mr-4"
         />
