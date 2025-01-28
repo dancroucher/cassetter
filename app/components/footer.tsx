@@ -41,6 +41,17 @@ export default function Footer() {
             <p className="ml-2 h-7">linkedIn</p>
           </a>
         </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="app/components/files/Dan Croucher-CV-Sept2024.pdf"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">cv</p>
+          </a>
+        </li>
       </ul>
       <p className="mt-8 text-neutral-200 dark:text-neutral-100">
         © {new Date().getFullYear()} CASSETTER LTD

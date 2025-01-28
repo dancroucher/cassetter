@@ -18,21 +18,22 @@ export default function DanCroucher() {
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">Dan Croucher</h2>
       <h3 className="mb-2 text-2xl font-semibold tracking-tight">Dev Director, Exec Producer, Producer</h3>      
       <p className="prose mb-4 flex items-center">
-      {/* <Image
-            src={danCroucherPic}
-            width={90}
-            height={120}
-            alt=""
-            className="mr-8"
-          /> */}
-          <span>
+      <span>
           I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
-        </span>
-
+      </span>
       </p>
-
       <p className="prose">
-      I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality - both at a game development and studio management level.
+      I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
+      </p>
+      <br /><br />
+      <h3 className="mb-4 text-2xl font-bold tracking-tighter">Games I've made (and where)</h3>
+      <p className="prose">
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=m0-MbIc96PI" target="_blank">OlliOlli World</a> and Rollerdrome at <a href="https://www.eurogamer.net/goodbye-roll7-you-deserved-so-much-better" target="_blank">Roll7</a></li>
+          <li><a href="https://www.youtube.com/watch?v=92uXFeQNCCk" target="_blank">That's You!</a> and Knowledge is Power at <a href="https://www.gamesindustry.biz/wish-studios-closing-down" target="_blank">Wish Studios</a></li>
+          <li>Scram Kitty and is Buddy on Rails at Dakko Dakko</li>
+          <li>Five Buzz! Quiz games and Kinect Nat Geo TV at Relentless Software</li>
+        </ul>
       </p>
       <br /><br />
       <h3 className="mb-4 text-2xl font-bold tracking-tighter">Things I can do</h3>
