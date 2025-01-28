@@ -46,7 +46,8 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="app/components/files/Dan Croucher-CV-Sept2024.pdf"
+            href="/Dan Croucher-CV.pdf"
+            download="cv"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">cv</p>
