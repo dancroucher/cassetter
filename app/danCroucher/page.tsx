@@ -32,8 +32,7 @@ export default function DanCroucher() {
           <li><a href="https://www.youtube.com/watch?v=m0-MbIc96PI" target="_blank">OlliOlli World</a> and <a href="https://www.youtube.com/watch?v=xUAhqImHbsE" target="_blank">Rollerdrome</a> at <a href="https://www.eurogamer.net/goodbye-roll7-you-deserved-so-much-better" target="_blank">Roll7</a></li>
           <li><a href="https://www.youtube.com/watch?v=92uXFeQNCCk" target="_blank">That's You!</a> and <a href="https://www.youtube.com/watch?v=ApXbCa-6Coc" target="_blank">Knowledge is Power</a> at <a href="https://www.gamesindustry.biz/wish-studios-closing-down" target="_blank">Wish Studios</a></li>
           <li><a href="https://www.youtube.com/watch?v=jTIw2uAYFR8" target="_blank">Scram Kitty and his Buddy on Rails</a> at <a href="https://dakkodakko.com/presskit/" target="_blank">Dakko Dakko</a></li>
-          <li>Five <a href="https://www.youtube.com/watch?v=jso9QEr5Uic" target="_blank">Buzz!</a> quiz games and <a href="https://www.youtube.com/watch?v=sCeiH2sWu8w&" target="_blank">Kinect Nat Geo TV</a>
-          at <a href="https://en.wikipedia.org/wiki/Relentless_Software" target="_blank">Relentless Software</a></li>
+          <li>Five <a href="https://www.youtube.com/watch?v=jso9QEr5Uic" target="_blank">Buzz!</a> quiz games and <a href="https://www.youtube.com/watch?v=sCeiH2sWu8w" target="_blank">Kinect Nat Geo TV</a> at <a href="https://en.wikipedia.org/wiki/Relentless_Software" target="_blank">Relentless Software</a></li>
         </ul>
       </p>
       <br /><br />
