@@ -30,7 +30,7 @@
 }
 
 html {
-  min-width: 360px;
+  min-width: 480px;
 }
 
 .prose .anchor {
@@ -53,7 +53,7 @@ html {
 }
 
 .prose a:hover {
-  background-color: orange;
+  background-color: rgb(90, 220, 240);
   color: black;
 }
 
@@ -103,6 +103,11 @@ html {
 
 .prose h3 {
   @apply text-xl font-medium tracking-tight mt-6 mb-2;
+}
+
+.prose h3  a:hover {
+  background-color: rgb(90, 220, 240);
+  color: black;
 }
 
 .prose h4 {
