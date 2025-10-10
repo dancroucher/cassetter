@@ -1,4 +1,8 @@
 // import { BlogPosts } from 'app/components/posts'
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 4125dba (Update page.tsx)
 
 export default function Page() {
   return (
