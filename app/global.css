@@ -51,6 +51,10 @@ html {
   @apply underline transition-all decoration-neutral-400 dark:decoration-neutral-600 underline-offset-2 decoration-[0.1em];
   transition: background-color 0.75s ease;
 }
+.prose h3 a {
+  @apply underline transition-all decoration-neutral-400 dark:decoration-neutral-600 underline-offset-2 decoration-[0.1em];
+  transition: background-color 0.75s ease;
+}
 
 .prose a:hover {
   background-color: rgb(90, 220, 240);
