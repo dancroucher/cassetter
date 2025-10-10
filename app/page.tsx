@@ -21,11 +21,6 @@ export default function Page() {
           I can help in all of these situations, and many more. Just get in touch below for a chat.
           <br>
         </p>
-        <ul>
-          <li>Coffee</li>
-          <li>Tea</li>
-          <li>Milk</li>
-        </ul>
       </div>
     </section>
   )
