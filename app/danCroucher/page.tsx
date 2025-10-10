@@ -15,7 +15,7 @@ export default function DanCroucher() {
         /></a> */}
         <h1 className="text-8xl font-bold tracking-tighter">Dan Croucher</h1>
         </div>
-      <h2 className="mb-4 text-4xl font-bold tracking-tighter">Profile</h2>   
+      <h2 className="mb-4 text-4xl font-bold tracking-tight">Profile</h2>   
       <p className="prose mb-4 flex items-center">
       <span>
           I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
@@ -25,11 +25,15 @@ export default function DanCroucher() {
       I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
       </p>
       <br /><br />
-      <h2 className="mb-4 text-4xl font-bold tracking-tighter">Experience</h2>
-      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Development Director at <a href="https://www.eurogamer.net/goodbye-roll7-you-deserved-so-much-better" target="_blank">Roll7</a></h3>   
+      <h2 className="mb-4 text-4xl font-bold tracking-tight">Experience</h2>
+      <h3 className="mb-2 text-2xl font-semibold tracking-tight"><b>Development Director</b> at <b><a href="https://www.eurogamer.net/goodbye-roll7-you-deserved-so-much-better" target="_blank">Roll7</a></b></h3>
+      <p className="prose">
+      <i>Remote, November 2019 - November 2024</i>
+      I led the development of the BAFTA-nominated <a href="https://www.youtube.com/watch?v=m0-MbIc96PI" target="_blank">OlliOlli World</a> and collaborated on the BAFTA-winning <a href="https://www.youtube.com/watch?v=xUAhqImHbsE" target="_blank">Rollerdrome</a>. Following the acquisition of the studio by Take-Two Interactive I then went on to head up all development at the studio. My responsibilities included scheduling and resourcing multiple teams and concurrent projects across the studio as well as high-level management of all aspects of production and QA, studio strategy and development quality.
+      </p>
+
       <p className="prose">
         <ul>
-          <li><a href="https://www.youtube.com/watch?v=m0-MbIc96PI" target="_blank">OlliOlli World</a> and <a href="https://www.youtube.com/watch?v=xUAhqImHbsE" target="_blank">Rollerdrome</a> at <a href="https://www.eurogamer.net/goodbye-roll7-you-deserved-so-much-better" target="_blank">Roll7</a></li>
           <li><a href="https://www.youtube.com/watch?v=92uXFeQNCCk" target="_blank">That's You!</a> and <a href="https://www.youtube.com/watch?v=ApXbCa-6Coc" target="_blank">Knowledge is Power</a> at <a href="https://www.gamesindustry.biz/wish-studios-closing-down" target="_blank">Wish Studios</a></li>
           <li><a href="https://www.youtube.com/watch?v=jTIw2uAYFR8" target="_blank">Scram Kitty and his Buddy on Rails</a> at <a href="https://dakkodakko.com/presskit/" target="_blank">Dakko Dakko</a></li>
           <li>Five <a href="https://www.youtube.com/watch?v=jso9QEr5Uic" target="_blank">Buzz!</a> quiz games and <a href="https://www.youtube.com/watch?v=sCeiH2sWu8w" target="_blank">Kinect Nat Geo TV</a> at <a href="https://en.wikipedia.org/wiki/Relentless_Software" target="_blank">Relentless Software</a></li>
