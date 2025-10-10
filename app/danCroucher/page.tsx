@@ -17,7 +17,9 @@ export default function DanCroucher() {
         </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tight">Profile</h2>   
       <p className="prose mb-4 flex items-center">
-          I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between.
+      <span>
+          I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
+      </span>
       </p>
       <p className="prose">
       I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
@@ -28,7 +30,7 @@ export default function DanCroucher() {
       <p className="prose">
       <i>Remote, November 2019 - November 2024</i> </p>
       <p className="prose">
-      I led the development of the BAFTA-nominated <a href="https://www.youtube.com/watch?v=m0-MbIc96PI" target="_blank">OlliOlli World</a> and collaborated on the BAFTA-winning <a href="https://www.youtube.com/watch?v=xUAhqImHbsE" target="_blank">Rollerdrome</a>.<br><br>Following the acquisition of the studio by Take-Two Interactive I then went on to head up all development at the studio. My responsibilities included scheduling and resourcing multiple teams and concurrent projects across the studio as well as high-level management of all aspects of production and QA, studio strategy and development quality.
+      I led the development of the BAFTA-nominated <a href="https://www.youtube.com/watch?v=m0-MbIc96PI" target="_blank">OlliOlli World</a> and collaborated on the BAFTA-winning <a href="https://www.youtube.com/watch?v=xUAhqImHbsE" target="_blank">Rollerdrome</a>.Following the acquisition of the studio by Take-Two Interactive I then went on to head up all development at the studio. My responsibilities included scheduling and resourcing multiple teams and concurrent projects across the studio as well as high-level management of all aspects of production and QA, studio strategy and development quality.
       </p><br /><br />
       <h3 className="mb-2 text-2xl font-semibold tracking-tight">Senior Producer & Development Director at <a href="https://www.gamesindustry.biz/wish-studios-closing-down" target="_blank">Wish Studios</a></h3>
       <p className="prose">
