@@ -8,13 +8,13 @@ export default function Page() {
     <section>
     
     <div className="mb-8">
-      {/* <a href="./"><Image
+      <a href="./"><Image
           src={logoPic}
           width={128}
           height={128}
           alt="Logo"
           className="mr-4"
-        /></a> */}
+        /></a>
         <h1 className="text-8xl font-bold tracking-tighter">Cassetter</h1>
         </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tighter">
