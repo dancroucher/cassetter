@@ -6,17 +6,16 @@ export default function DanCroucher() {
   return (
     <section>
       <div className="mb-8">
-      <a href="./"><Image
+      {/* <a href="./"><Image
           src={logoPic}
           width={128}
           height={128}
           alt="Logo"
           className="mr-4"
-        /></a>
-        <h1 className="text-8xl font-bold tracking-tighter">Cassetter</h1>
+        /></a> */}
+        <h1 className="text-8xl font-bold tracking-tighter">Dan Croucher</h1>
         </div>
-      <h2 className="mb-4 text-4xl font-bold tracking-tighter">Dan Croucher</h2>
-      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Dev Director, Exec Producer, Producer</h3>      
+      <h2 className="mb-4 text-4xl font-bold tracking-tighter">Profile</h2>   
       <p className="prose mb-4 flex items-center">
       <span>
           I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
@@ -26,7 +25,8 @@ export default function DanCroucher() {
       I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
       </p>
       <br /><br />
-      <h3 className="mb-4 text-2xl font-bold tracking-tighter">Games I've made (and where)</h3>
+      <h2 className="mb-4 text-4xl font-bold tracking-tighter">Experience</h2>
+      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Development Director at <a href="https://www.eurogamer.net/goodbye-roll7-you-deserved-so-much-better" target="_blank">Roll7</a></h3>   
       <p className="prose">
         <ul>
           <li><a href="https://www.youtube.com/watch?v=m0-MbIc96PI" target="_blank">OlliOlli World</a> and <a href="https://www.youtube.com/watch?v=xUAhqImHbsE" target="_blank">Rollerdrome</a> at <a href="https://www.eurogamer.net/goodbye-roll7-you-deserved-so-much-better" target="_blank">Roll7</a></li>
