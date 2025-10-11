@@ -92,7 +92,7 @@ export default function DanCroucher() {
           <li>OlliOlli World (PS4, PSS, XBO, Xbox Series, Switch, PC (Steam))</li>
           <li>Rollerdrome (XBO, Xbox Series, PC (Windows))</li>
         </ul>
-      </p><br />
+      </p>
       <h3 className="mb-2 text-2xl font-semibold tracking-tight">Wish Studios</h3>
       <p className="prose">
         <ul>
@@ -100,7 +100,7 @@ export default function DanCroucher() {
           <li>Knowledge is Power (PS4)</li>
           <li>Knowledge is Power: Decades (PS4)</li>
         </ul>
-      </p><br />
+      </p>
       <h3 className="mb-2 text-2xl font-semibold tracking-tight">Dakko Dako</h3>
       <p className="prose">
         <ul>
@@ -108,7 +108,7 @@ export default function DanCroucher() {
           <li>Floating Cloud God Saves the Pilgrims in HD! (PS Vita port)</li>
           <li>Scram Kitty and his Buddy on Rails (Wii U, PS4 port)</li>
         </ul>
-      </p><br />
+      </p>
       <h3 className="mb-2 text-2xl font-semibold tracking-tight">Relentless Software</h3>
       <p className="prose">
         <ul>
@@ -124,6 +124,27 @@ export default function DanCroucher() {
       <p className="prose">
       Google Workspace | Excel, Word, PowerPoint & Teams | Slack, Notion & Miro | Jira, Confluence, Hansoft, Asana & Trello  | Photoshop, Illustrator, Premiere & After Effects | Unity and C#, Unreal and Blueprints | Build processes, Mobile App creation and provisioning, Online infrastructure and deployment | Compatibility tests, Beta trials & User Testing  | Localisation and Content databases
       </p><br />
+      <h2 className="mb-4 text-4xl font-bold tracking-tight">Education</h2>
+      <h3 className="mb-2 text-2xl font-semibold tracking-tight">BSc Psychology</h3>
+      <p className="prose">
+      University of Sussex, Brighton (1995 - 1998)
+      </p>
+      <h3 className="mb-2 text-2xl font-semibold tracking-tight">BSc Psychology</h3>
+      <p className="prose">
+      University of Sussex, Brighton (1995 - 1998)
+      </p>
+      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Diploma in Art & Design Foundation Studies</h3>
+      <p className="prose">
+      Winchester School of Art & Design (1993 - 1994)
+      </p>
+      <h3 className="mb-2 text-2xl font-semibold tracking-tight">A Level Art (A), A Level Sculpture (A), A Level English Literature (B)</h3>
+      <p className="prose">
+      Alton College. Hampshire (1991 - 1993)
+      </p><br />
+      <h2 className="mb-4 text-4xl font-bold tracking-tight">References</h2>
+      <p className="prose">
+      On Request.
+      </p>
     </section>
   )
 } 

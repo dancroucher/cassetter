@@ -24,10 +24,10 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="mailto:dan@cassetter.com"
+            href="mailto:dan.croucher@gmail.com"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">email</p>
+            <p className="ml-2 h-7">dan.croucher@gmail.com</p>
           </a>
         </li>
         <li>
@@ -38,7 +38,7 @@ export default function Footer() {
             href="https://linkedin.com/in/dancroucher"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">linkedIn</p>
+            <p className="ml-2 h-7">https://linkedin.com/in/dancroucher</p>
           </a>
         </li>
         <li>
@@ -46,16 +46,16 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="/Dan Croucher-CV.pdf"
+            href=""
             download="cv"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">cv</p>
+            <p className="ml-2 h-7">+44 (0) 77995908342</p>
           </a>
         </li>
       </ul>
       <p className="mt-8 text-neutral-200 dark:text-neutral-100">
-        © {new Date().getFullYear()} CASSETTER LTD
+        {/* © {new Date().getFullYear()} AlL Rights Reserved */}
       </p>
     </footer>
   )
