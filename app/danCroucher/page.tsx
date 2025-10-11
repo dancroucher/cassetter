@@ -57,8 +57,7 @@ export default function DanCroucher() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href=""
-            download="cv"
+            href="tel:+447799590832"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">+44 (0) 77995908342</p>
@@ -171,7 +170,7 @@ export default function DanCroucher() {
       <h2 className="mb-4 text-4xl font-bold tracking-tight">Software & Process</h2>
       <p className="prose">
       Google Workspace | Excel, Word, PowerPoint & Teams | Slack, Notion & Miro | Jira, Confluence, Hansoft, Asana & Trello  | Photoshop, Illustrator, Premiere & After Effects | Unity and C#, Unreal and Blueprints | Build processes, Mobile App creation and provisioning, Online infrastructure and deployment | Compatibility tests, Beta trials & User Testing  | Localisation and Content databases
-      </p><br />
+      </p><br /><br />
       <h2 className="mb-4 text-4xl font-bold tracking-tight">Education</h2>
       <p className="prose">
         <b>BSc Psychology</b><br />
@@ -184,7 +183,7 @@ export default function DanCroucher() {
       <p className="prose">
       <b>A Level Art (A), A Level Sculpture (A), A Level English Literature (B)</b><br />
       Alton College, Hampshire (1991 - 1993)
-      </p><br />
+      </p><br /><br />
       <h2 className="mb-4 text-4xl font-bold tracking-tight">References</h2>
       <p className="prose">
       On Request.
