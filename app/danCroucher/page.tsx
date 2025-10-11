@@ -17,12 +17,9 @@ export default function DanCroucher() {
         </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tight">Profile</h2>   
       <p className="prose mb-4 flex items-center">
-      <span>
           I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
-      </span>
-      </p>
-      <p className="prose">
-      I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
+          <br />
+          I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
       </p>
       <br />
       <h2 className="mb-4 text-4xl font-bold tracking-tight">Experience</h2>
