@@ -122,21 +122,18 @@ export default function DanCroucher() {
       Google Workspace | Excel, Word, PowerPoint & Teams | Slack, Notion & Miro | Jira, Confluence, Hansoft, Asana & Trello  | Photoshop, Illustrator, Premiere & After Effects | Unity and C#, Unreal and Blueprints | Build processes, Mobile App creation and provisioning, Online infrastructure and deployment | Compatibility tests, Beta trials & User Testing  | Localisation and Content databases
       </p><br />
       <h2 className="mb-4 text-4xl font-bold tracking-tight">Education</h2>
-      <h3 className="mb-2 text-2xl font-semibold tracking-tight">BSc Psychology</h3>
       <p className="prose">
-      University of Sussex, Brighton (1995 - 1998)
-      </p>
-      <h3 className="mb-2 text-2xl font-semibold tracking-tight">BSc Psychology</h3>
+        <b>BSc Psychology</b><br />
+        University of Sussex, Brighton (1995 - 1998)
+      </p><br />
       <p className="prose">
-      University of Sussex, Brighton (1995 - 1998)
-      </p>
-      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Diploma in Art & Design Foundation Studies</h3>
-      <p className="prose">
+      <b>Diploma in Art & Design Foundation Studies</b><br />
       Winchester School of Art & Design (1993 - 1994)
-      </p>
+      </p><br />
       <h3 className="mb-2 text-2xl font-semibold tracking-tight">A Level Art (A), A Level Sculpture (A), A Level English Literature (B)</h3>
       <p className="prose">
-      Alton College. Hampshire (1991 - 1993)
+      <b>A Level Art (A), A Level Sculpture (A), A Level English Literature (B)</b><br />
+      Alton College, Hampshire (1991 - 1993)
       </p><br />
       <h2 className="mb-4 text-4xl font-bold tracking-tight">References</h2>
       <p className="prose">

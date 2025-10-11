@@ -29,7 +29,7 @@ export default function Footer() {
             <ArrowIcon />
             <p className="ml-2 h-7">dan.croucher@gmail.com</p>
           </a>
-        </li>
+        </li><br />
         <li>
           <a
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
@@ -40,7 +40,7 @@ export default function Footer() {
             <ArrowIcon />
             <p className="ml-2 h-7">https://linkedin.com/in/dancroucher</p>
           </a>
-        </li>
+        </li><br />
         <li>
           <a
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
