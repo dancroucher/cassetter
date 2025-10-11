@@ -1,7 +1,7 @@
 @import 'tailwindcss';
 
 ::selection {
-  background-color: #47a3f3;
+  background-color: rgb(90, 220, 240);
   color: #fefefe;
 }
 
@@ -51,10 +51,7 @@ html {
   @apply underline transition-all decoration-neutral-400 dark:decoration-neutral-600 underline-offset-2 decoration-[0.1em];
   transition: background-color 0.75s ease;
 }
-.prose h3 a {
-  @apply underline transition-all decoration-neutral-400 dark:decoration-neutral-600 underline-offset-2 decoration-[0.1em];
-  transition: background-color 0.75s ease;
-}
+
 
 .prose a:hover {
   background-color: rgb(90, 220, 240);
@@ -107,6 +104,10 @@ html {
 
 .prose h3 {
   @apply text-xl font-medium tracking-tight mt-6 mb-2;
+  a {
+  @apply underline transition-all decoration-neutral-400 dark:decoration-neutral-600 underline-offset-2 decoration-[0.1em];
+  transition: background-color 0.75s ease;
+  }
 }
 
 .prose h3  a:hover {
