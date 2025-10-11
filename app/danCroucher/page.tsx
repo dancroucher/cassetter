@@ -13,13 +13,49 @@ export default function DanCroucher() {
           alt="Logo"
           className="mr-4"
         /></a> */}
-        <h1 className="text-8xl font-bold tracking-tighter">Dan Croucher</h1>
+        <h1 className="text-6xl font-bold tracking-tight">Dan Croucher</h1>
+              <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 dark:text-neutral-300">
+        <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="mailto:dan.croucher@gmail.com"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">dan.croucher@gmail.com</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://linkedin.com/in/dancroucher"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">https://linkedin.com/in/dancroucher</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href=""
+            download="cv"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">+44 (0) 77995908342</p>
+          </a>
+        </li>
+      </ul>
         </div>
       <h2 className="mb-4 text-4xl font-bold tracking-tight">Profile</h2>   
       <p className="prose mb-4 flex items-center">
           I'm a creative and versatile video game producer and studio leader with 20+ years of hands-on game industry experience. I've worked with big budgets and large teams, on a shoestring with tiny ones, and everything in-between. 
           <br /><br />
-          I've shipped many commercially and critically acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
+          I've shipped many commercially and critically-acclaimed games across a large range of platforms, on time and on budget. I pride myself on my drive, passion, attention to detail, straightforward approach and pursuit of quality.
       </p>
       <br />
       <h2 className="mb-4 text-4xl font-bold tracking-tight">Experience</h2>
@@ -57,7 +93,7 @@ export default function DanCroucher() {
       <p className="prose">
       <i>In-Office, October 2005 - October 2012</i></p>
       <p className="prose">
-      I started at Relentless as an assistant producer handling localisation and left having led a team of 30+ on a <a href="https://www.youtube.com/watch?v=sCeiH2sWu8w" target="_blank">truly unique Kinect title</a> on Xbox 360. On the way I worked with cross-discipline teams to deliver results via brainstorming. prototyping, pre-production, production and eventual submission on many large and small projects, including many games in the <a href="https://www.youtube.com/watch?v=jso9QEr5Uic" target="_blank">BAFTA-winning Buzz! Franchise</a>. 
+      I started at Relentless as an assistant producer handling localisation and left having led a team of 30+ on a <a href="https://www.youtube.com/watch?v=sCeiH2sWu8w" target="_blank">truly unique Kinect title</a> on Xbox 360. On the way I worked with cross-discipline teams to deliver results via brainstorming, prototyping, pre-production, production and eventual submission on many large and small projects, including many games in the <a href="https://www.youtube.com/watch?v=jso9QEr5Uic" target="_blank">BAFTA-winning Buzz! Franchise</a>. 
       </p><br /><br />
       <h2 className="mb-4 text-4xl font-bold tracking-tight">Skills</h2>
       <p className="prose">
@@ -98,7 +134,7 @@ export default function DanCroucher() {
           <li>Knowledge is Power: Decades (PS4)</li>
         </ul>
       </p>
-      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Dakko Dako</h3>
+      <h3 className="mb-2 text-2xl font-semibold tracking-tight">Dakko Dakko</h3>
       <p className="prose">
         <ul>
           <li>The HD Adventures of Rotating Octopus Character (PS Vita port)</li>
